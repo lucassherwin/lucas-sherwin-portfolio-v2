@@ -13,33 +13,6 @@ const Contact = createClass({
         <hr/>
 
         ${this.props.widgetFor('body')}
-
-        <!-- Contact Form Placeholder (for illustrative purposes) -->
-        <form class="contact-form" name="contact">
-          <label for="name">Name</label>
-          <input
-            type="text"
-            name="name"
-            id="name"
-            autocomplete="name"
-            placeholder="Your name"
-            title="Please enter your name"
-            required
-          />
-          <label for="email">Email</label>
-          <input
-            type="email"
-            name="email"
-            id="email"
-            autocomplete="email"
-            placeholder="Your email address"
-            title="The domain portion of the email address is invalid (the portion after the @)."
-            required
-          />
-          <label for="message">Message</label>
-          <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
-          <button class="contact-form__submit btn" type="submit" name="submit">Send Message</button>
-        </form>
       </main>
     `;
   },

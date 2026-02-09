@@ -1,6 +1,4 @@
 {
-  "title": "Fernfolio",
-  "image": "/src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Lucas Sherwin's Portfolio",
+  "body": "Experienced full stack engineer with a background in Ruby on Rails and JavaScript based web applications."
 }
