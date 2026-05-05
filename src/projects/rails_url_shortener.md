@@ -11,6 +11,8 @@ tags:
 
 # URL Shortener
 
+https://github.com/lucassherwin/rails-url-shortener
+
 **Stack:** Ruby on Rails 8 · React 19 · TypeScript · PostgreSQL · Solid Queue · Docker · Kamal
 
 ---
